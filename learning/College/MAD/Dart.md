@@ -1,0 +1,4 @@
+- Dart is an open-source programming language that powers the Flutter framework,
+- The key selling point of dart is that it is designed by Google as a client-optimized language for fast apps on any platform.
+- Dart mainly focuses on making UI development easier for developers with features such as hot-reload, which lets developers see changes instantly while working on the app.
+- Dart is also known for its fast performance, it compiles to ARM and x64 machine code for mobile, desktop, and backend. And to JavaScript for the web apps.

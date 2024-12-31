@@ -1,0 +1,4 @@
+- It is a group of multiple softwares.
+- They don't filter the data, instead they attach themselves to a source and collect the data in real-time and feed the data back to Elasticsearch.
+- They can either directly ship the data to Elasticsearch *or* send it over the logstash for filtering.
+- 

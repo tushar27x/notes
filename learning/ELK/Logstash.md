@@ -1,0 +1,4 @@
+- It is a collection agent.
+- It is responsible for filtering the data .
+- After it has collected and filtered the data it sends the data over to elastic search for storage.
+- 

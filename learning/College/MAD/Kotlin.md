@@ -1,0 +1,5 @@
+- It is the official language for Android App Development declared by Google in 2019.
+- It has also introduced as a secondary “official” Java language in 2017. Kotlin can interoperate with Java and it runs on the Java Virtual Machine.
+- The only sizable difference is that Kotlin removes the superfluous features of Java such as null pointer exceptions. 
+- It also removes the necessity of ending every line with a semicolon. 
+- Kotlin is much simpler for beginners to try as compared to Java and it can also be used as an “entry point” for Android App Development.

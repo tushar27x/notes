@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Web",
+      "color": {
+        "a": 1,
+        "rgb": 5689840
+      }
+    },
+    {
+      "query": "path:learning/ELK ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:learning/DevOps  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:learning/Java  ",
+      "color": {
+        "a": 1,
+        "rgb": 15947040
+      }
+    },
+    {
+      "query": "path:learning/College/MAD  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:learning/College/PHP  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:learning/Spring  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431394
+      }
+    },
+    {
+      "query": "path:learning/College/WMATD  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:learning/College/WCN  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:learning/Linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 13873124
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 13.7679647658785,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.15217102062502808,
+  "close": true
+}

@@ -1,0 +1,128 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:DevOps  ",
+      "color": {
+        "a": 1,
+        "rgb": 6059222
+      }
+    },
+    {
+      "query": "path:ELK",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:Spring",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:PHP",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:MAD  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Web/Node  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431413
+      }
+    },
+    {
+      "query": "path:Web/React  ",
+      "color": {
+        "a": 1,
+        "rgb": 10276584
+      }
+    },
+    {
+      "query": "path:Web/Express  ",
+      "color": {
+        "a": 1,
+        "rgb": 16578810
+      }
+    },
+    {
+      "query": "path:Web/MongoDB  ",
+      "color": {
+        "a": 1,
+        "rgb": 425754
+      }
+    },
+    {
+      "query": "path:Web/JavaScript  ",
+      "color": {
+        "a": 1,
+        "rgb": 13952634
+      }
+    },
+    {
+      "query": "path:Web/Fundamentals  ",
+      "color": {
+        "a": 1,
+        "rgb": 13683227
+      }
+    },
+    {
+      "query": "path:College/WCN  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701276
+      }
+    },
+    {
+      "query": "path:Java  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:College/WMATD  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.41394297635605,
+  "repelStrength": 8.13050533147891,
+  "linkStrength": 1,
+  "linkDistance": 176,
+  "scale": 0.5359795749495609,
+  "close": true
+}

@@ -1,0 +1,3 @@
+- It ***was*** the official language for Android development
+- It has been replace with kotlin
+- is a complicated language for a beginner to use as it contains complex topics like constructors, null pointer exceptions, concurrency, checked exceptions, etc. Also, The Android Software Development Kit (SDK) increases the complexity to a new level!

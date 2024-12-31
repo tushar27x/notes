@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "823b98dc362bd02f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c65235ade735aa3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "557328cfbfa60ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/File System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "File System"
+            }
+          },
+          {
+            "id": "870e5594968058e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/WCN/UMTS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UMTS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fdcc723d4f355a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a130b2c9d652808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6816ab441d7d6bd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2cd1e51e06001c3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3facaa551dedb133",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.50446319580078
+  },
+  "right": {
+    "id": "0802c62b240d4808",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cae21ee785f2ce2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c2adecfbc6a9bcd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "557328cfbfa60ccf",
+  "lastOpenFiles": [
+    "College/PHP/PHP.md",
+    "College/PHP/Files Upload.md",
+    "College/WCN/WCN.md",
+    "College/WCN/WiMAX.md",
+    "College/WCN/NFC.md",
+    "College/WCN/ZigBee.md",
+    "College/WCN/Bluetooth.md",
+    "College/WCN/5G.md",
+    "College/WCN/4G and LTE.md",
+    "College/WCN/UMTS.md",
+    "College/WCN/UMTS Time Slots.md",
+    "College/WCN/UMTS Channels.md",
+    "College/WCN/UTMS Evolution.md",
+    "College/WCN/UTMS Release 99.md",
+    "College/WCN/3G.md",
+    "College/WCN/CDMA IS-95.md",
+    "College/WCN/2.5G, GPRS, EDGE.md",
+    "College/WCN/2G & GSM.md",
+    "College/WCN/Modulation Techniques.md",
+    "College/WCN/Bit Error Rate (BER) Performance in Fading Channels.md",
+    "College/WCN/Diversity Schemes.md",
+    "College/WCN/Wireless Channels.md",
+    "Java/Pasted image 20240901190123.png",
+    "Pasted image 20240901190123.png",
+    "Java/Pasted image 20240901190123 2.png",
+    "Java/Pasted image 20240901190123 1.png",
+    "Screenshot 2024-09-19 at 2.05.29 PM.png",
+    "Screenshot 2024-09-19 at 12.24.32 PM.png",
+    "College/WCN/PCS.md",
+    "College/WCN/Introduction to WCN.md",
+    "Pasted image 20241112214329.png.md",
+    "College/WCN/images/Pasted image 20241210021122.png",
+    "College/WCN/images/Pasted image 20241210154457.png",
+    "College/WCN/images/Pasted image 20241210184258.png",
+    "College/WCN/images/Pasted image 20241210184429.png",
+    "DevOps/Types of files in linux.md",
+    "Excalidraw",
+    "learning/Java",
+    "learning",
+    "Linux",
+    "Web/Node",
+    "Web/React",
+    "Web/MongoDB",
+    "Web/JavaScript",
+    "Web/Express",
+    "Web/Fundamentals"
+  ]
+}

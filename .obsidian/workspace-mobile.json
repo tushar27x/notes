@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "9b33dbd2371826ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "c13b171d8193eee9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e04bf64f4082538",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "5576b86bf7d79239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/College/PHP/Forms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forms"
+            }
+          },
+          {
+            "id": "b5297764068de07c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/College/MAD/Advance Topics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advance Topics"
+            }
+          },
+          {
+            "id": "872b1fddd2dd5fdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/College/MAD/MAD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MAD"
+            }
+          },
+          {
+            "id": "8b397769406ddbcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/College/MAD/Implementing Navigation and User Interaction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Implementing Navigation and User Interaction"
+            }
+          },
+          {
+            "id": "5db821ea174b3996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/College/WMATD/Automation Testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automation Testing"
+            }
+          },
+          {
+            "id": "93f448cb235b7579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/College/MAD/Data Storage and Synchronization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Storage and Synchronization"
+            }
+          },
+          {
+            "id": "8c3dbf9710212925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/College/MAD/Advance Topics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advance Topics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df9c4260ce8093f1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0a7d78fbb7e2883b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b3abfc6cf35586fd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "1474d1d00b14cc5d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "6cbaf904aba60739",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4c98dcae38eb4fbf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6ef5a2abe28223f6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "learning/College/PHP/Working with files and directories.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "916f08c855800094",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "7ce20062040af709",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1e04bf64f4082538",
+  "lastOpenFiles": [
+    "learning/College/MAD/Advance Topics.md",
+    "learning/College/MAD/Data Storage and Synchronization.md",
+    "learning/College/MAD/MAD.md",
+    "learning/College/WMATD/Automation Testing.md",
+    "learning/College/MAD/Implementing Navigation and User Interaction.md",
+    "learning/College/WMATD/Performance Testing.md",
+    "learning/College/MAD/Deployment Process.md",
+    "learning/College/WMATD/Regressin Testing.md",
+    "learning/College/PHP/Working with files and directories.md",
+    "learning/College/PHP/PHP.md",
+    "learning/College/PHP/Working with MySQL.md",
+    "learning/College/PHP/Forms.md",
+    "learning/College/PHP/Sessions and Cookies.md",
+    "learning/College/PHP/Strings.md",
+    "learning/College/PHP/Arrays.md",
+    "learning/College/PHP/Functions.md",
+    "learning/College/PHP/Decision Making and Looping.md",
+    "learning/College/PHP/Constants & Variables.md",
+    "learning/College/WCN/ZigBee.md",
+    "learning/College/WCN/Wireless Channels.md",
+    "learning/College/WCN/2.5G, GPRS, EDGE.md",
+    "learning/College/WCN/2G & GSM.md",
+    "learning/College/WCN/Modulation Techniques.md",
+    "learning/College/WCN/Introduction to WCN.md",
+    "learning/College/WCN/Bit Error Rate (BER) Performance in Fading Channels.md",
+    "learning/College/WCN/CDMA IS-95.md"
+  ]
+}

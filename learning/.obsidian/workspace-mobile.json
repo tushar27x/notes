@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "45379c3e5004e98f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9584c418dd5a17f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75e12dfd0ccea9d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/WCN/2.5G, GPRS, EDGE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.5G, GPRS, EDGE"
+            }
+          },
+          {
+            "id": "7bac94d7d6627db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/WCN/2G & GSM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2G & GSM"
+            }
+          },
+          {
+            "id": "5a9eb06af5a8c77d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a135058169e62425",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b4b1b47d309c9df6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "64dc2c5bcc2f0f16",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "418359a59375a5c0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "eeaab504a7b94877",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c1154483950be8c9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5ba3dd84cd771ad3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "69a0dcd5254576a5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "35e5e24d4eb53ede",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "5a9eb06af5a8c77d",
+  "lastOpenFiles": [
+    "College/WCN/2G & GSM.md",
+    "College/WCN/2.5G, GPRS, EDGE.md",
+    "College/WCN/PCS.md",
+    "College/WCN/Diversity Schemes.md",
+    "College/WCN/WCN.md",
+    "College/WCN/Wireless Channels.md",
+    "WCN/WCN.md",
+    "WCN/Introduction to WCN.md",
+    "PHP/Forms.md",
+    "PHP/Functions.md",
+    "PHP/Files.md",
+    "PHP/Arrays.md",
+    "PHP/Constants & Variables.md",
+    "PHP/Decision Making and Looping.md",
+    "MAD/PWA.md",
+    "MAD/Native.md",
+    "MAD/MAD.md",
+    "MAD/Mobile app architecture and components.md",
+    "MAD/Location-Based Services and Mapping.md",
+    "MAD/Kotlin.md",
+    "MAD/Java for App Development.md",
+    "MAD/Design Principles for Mobile Apps.md",
+    "MAD/Implementing Navigation and User Interaction.md",
+    "MAD/Designing for Multiple Screen Sizes and Resolutions.md",
+    "MAD/Data Storage and Synchronization.md",
+    "MAD/Dart.md",
+    "Java/Pasted image 20240902104905.png",
+    "Java/Pasted image 20240901190503.png",
+    "Java/Pasted image 20240901190123.png",
+    "ELK/7BEA5385-2215-4B0E-AEE3-2345BF44669A.jpeg",
+    "DevOps/Pasted image 20240723120619.png",
+    "DevOps/Pasted image 20240902104216.png",
+    "Screenshot 2024-09-19 at 2.05.29 PM.png",
+    "Screenshot 2024-09-19 at 12.24.32 PM.png",
+    "Pasted image 20240902104905.png",
+    "Pasted image 20240902104216.png",
+    "DevOps/images",
+    "College/WMATD/images",
+    "College/WMATD",
+    "College/WCN/images",
+    "College/WCN",
+    "College/PHP",
+    "College/MAD",
+    "WMATD",
+    "Web/React",
+    "Web/Node"
+  ]
+}

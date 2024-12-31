@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "5214520878f22ccf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cd0b56683847eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3991f3c65cd00215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/DevOps/DevOps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DevOps"
+            }
+          },
+          {
+            "id": "3ce334263ccadada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning/College/WMATD/Secure Deployment Best Practices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Secure Deployment Best Practices"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4095a26b38c192a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7b0cdf3a07ef6f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40406f987760a7d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "924806bcae6de170",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "77bd2ad8bfaa4ae3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "8f8078a17e493984",
+    "type": "split",
+    "children": [
+      {
+        "id": "e686d4f8ef0d795a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "881943075fcf3828",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "12c387f9989b79ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "learning/DevOps/DevOps.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DevOps"
+            }
+          },
+          {
+            "id": "cb6506770a1f5b43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a8c7f3db4fac71f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1c20359a65d9b8ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "learning/DevOps/DevOps.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DevOps"
+            }
+          },
+          {
+            "id": "100f0f4864fefac0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 469.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "3991f3c65cd00215",
+  "lastOpenFiles": [
+    "learning/DevOps/Continuous Delivery.md",
+    "learning/DevOps/Continuous Integration.md",
+    "learning/College/WMATD/Regression Testing.md",
+    "learning/DevOps/Virtualization.md",
+    "learning/College/WMATD/Types of Functional Testing 2.md",
+    "learning/College/WMATD/Regressin Testing 2.md",
+    "learning/DevOps/Continuous Delivery Pipelines.md",
+    "learning/DevOps/Build Automation Tools.md",
+    "learning/DevOps/Continuous Deployment.md",
+    "learning/DevOps/Deployment Strategies.md",
+    "learning/College/WMATD/Monitoring.md",
+    "learning/College/WMATD/WMATD.md",
+    "learning/DevOps/CD.md",
+    "learning/DevOps/CI.md",
+    "CI / CD.md",
+    "CI ",
+    "CI/CD.md",
+    "CI",
+    "learning/College/WMATD/Secure Deployment Best Practices.md",
+    "learning/College/WMATD/Security Testing.md",
+    "learning/Web/Web.md",
+    "learning/College/MAD/MAD.md",
+    "learning/Web/JavaScript/Spread Operator.md",
+    "learning/College/WMATD/Types of Functional Testing.md",
+    "learning/College/MAD/Advance Topics.md",
+    "learning/College/MAD/Deployment Process.md",
+    "learning/College/WMATD/Compatibility Testing.md",
+    "learning/College/WMATD/Performance Testing.md",
+    "learning/College/WCN/Pasted image 20241112214329.png",
+    "learning/College/WCN/wcn_mid_sem.jpg",
+    "learning/Screenshot 2024-09-19 at 12.24.32 PM.png",
+    "learning/Screenshot 2024-09-19 at 2.05.29 PM.png",
+    "learning/Pasted image 20240902104905.png",
+    "learning/Pasted image 20240902104216.png",
+    "learning/Pasted image 20240901190123.png",
+    "learning/Pasted image 20240901190503.png",
+    "learning/WMATD",
+    "learning/WCN",
+    "learning/PHP",
+    "learning/MAD",
+    "learning/images",
+    "learning/Spring/Screenshot 2024-09-19 at 2.05.29 PM.png",
+    "learning/Java/Pasted image 20240902104905 1.png",
+    "learning/College/WCN/images",
+    "learning/College/WMATD/images",
+    "learning/College/WMATD"
+  ]
+}

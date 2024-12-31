@@ -1,0 +1,76 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "📲",
+      "🖌",
+      "🐧",
+      "🏛",
+      "LiImages",
+      "🧪",
+      "🕸",
+      "LiBluetoothConnected",
+      "♾",
+      "LiSearch",
+      "😥",
+      "👨‍💻",
+      "🐘",
+      "♨",
+      "LiNetwork",
+      "LiImage",
+      "LiDatabase",
+      "LiCode"
+    ],
+    "recentlyUsedIconsSize": 25,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "learning/Spring": "♨",
+  "learning/Java": "😥",
+  "learning/Web": "🕸",
+  "learning/College/WMATD": "🧪",
+  "learning/College/PHP": "🐘",
+  "learning/College/MAD": "📲",
+  "learning/College/WCN": {
+    "iconName": "LiBluetoothConnected",
+    "iconColor": "#2e87cc"
+  },
+  "learning/College": "🏛",
+  "learning/DevOps": "♾",
+  "learning/DevOps/images": {
+    "iconName": "LiImages",
+    "iconColor": "#753d76"
+  },
+  "learning/College/WMATD/images": {
+    "iconName": "LiImages",
+    "iconColor": "#b851af"
+  },
+  "learning/College/WCN/images": {
+    "iconName": "LiImages",
+    "iconColor": "#c55ed9"
+  },
+  "learning/Linux": "🐧",
+  "learning/ELK": "LiSearch",
+  "learning/Excalidraw": "🖌"
+}
