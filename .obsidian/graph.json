@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 13873124
       }
+    },
+    {
+      "query": "path:learning/Docker  ",
+      "color": {
+        "a": 1,
+        "rgb": 8908014
+      }
     }
   ],
   "collapse-display": false,

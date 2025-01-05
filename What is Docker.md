@@ -1,0 +1,3 @@
+- Docker is an open platform for developing, shipping, and running applications.
+- By taking advantage of Docker's methodologies for shipping, testing, and deploying code, you can significantly reduce the delay between writing code and running it in production.
+- Docker provides the ability to package and run an application in a loosely isolated environment called a container.
