@@ -1,3 +1,7 @@
+- [[Maven]]
 - [[Spring Boot vs Spring Framework]]
 - [[Dependency Injection (DI)]]
 - [[Annotations]]
+-  [[IOC]]
+- [[JPA]]
+- [[Project]]
